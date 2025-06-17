@@ -1,0 +1,19 @@
+{
+  "total_products_sold": 12,
+  "product_counts": {
+    "1": 3,
+    "5": 5,
+    "2": 1,
+    "3": 1,
+    "4": 2
+  },
+  "revenue_per_customer": {
+    "Amina Okafor": 1208.87,
+    "Daniel O'Neill": 428.35,
+    "Chioma Nwosu": 1662.82,
+    "Mateo Alvarez": 584.8199999999999,
+    "Olivia Smith": 1637.98,
+    "Tariq Al-Mansour": 259.99
+  },
+  "most_popular_product": "Headphones"
+}
